@@ -48,3 +48,38 @@ export default tseslint.config({
   },
 })
 ```
+Vehicle Dashboard
+Overview
+The Vehicle Dashboard is a web application built using React, TypeScript, and Vite. It serves as a user interface for managing and visualizing vehicle data collected from an Automatic Number Plate Recognition (ANPR) system. This project aims to provide users with a seamless experience in monitoring vehicle information and insights.
+
+Features
+Real-time Vehicle Monitoring: View live data collected from ANPR systems.
+User-friendly Interface: Intuitive design for easy navigation and management of vehicle records.
+Component-based Architecture: Built using reusable React components for maintainability and scalability.
+Technologies Used
+React: A JavaScript library for building user interfaces.
+TypeScript: A superset of JavaScript that adds static typing.
+Vite: A fast development server and build tool.
+Tailwind CSS: A utility-first CSS framework for styling.
+Getting Started
+Prerequisites
+Node.js (version 14 or later)
+npm (Node Package Manager)
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/vehicle-dashboard.git
+cd vehicle-dashboard
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Start the development server:
+
+bash
+Copy code
+npm run dev
+Open your browser and navigate to http://localhost:5173.
